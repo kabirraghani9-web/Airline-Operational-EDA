@@ -2,7 +2,7 @@
 # Airline Operational Performance Analysis (SQL EDA)
 
 ## Objective
-Analyze airline operational reliability using On-Time Performance data.
+Airlines operate on tight schedules, and delays can affect thousands of passengers daily. I wanted to understand how often flights exceed standard delays and how severe those delays are.
 
 This project explores:
 - Cancellation patterns across airports
